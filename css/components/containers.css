@@ -1,0 +1,21 @@
+.part {
+	margin: 0;
+	background-color: #238D60;
+}
+
+.containers {
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.09034) 0%, rgba(0,0,0,0.7541) 0%) ,url(../../images/menu.jpeg);
+	margin-left: 20px;
+	margin-right: 20px;
+	height: 200px;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	justify-content: aline;
+	align-items: center;
+}
+
+
+h2 {
+	color: black;
+}

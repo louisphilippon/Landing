@@ -1,0 +1,16 @@
+.navbar {
+	position: sticky;
+	background-color: rgb(35, 141, 96);
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 150px;
+}
+.li {
+	text-decoration: none;
+}
+
+.nav_item {
+	display: inline;
+	text-decoration: none;
+}
